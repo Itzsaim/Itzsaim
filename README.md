@@ -15,6 +15,9 @@
   <a href="https://portfolio-alpha-236c.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://portfolio-alpha-236c.vercel.app/Abdul_Samad_Resume.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
   <a href="mailto:name.abdul06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="https://portfolio-alpha-236c.vercel.app/#chat"><img src="https://img.shields.io/badge/💬_Ask_my_AI_assistant_about_me-38BDF8?style=for-the-badge&labelColor=0b1120"/></a>
   <img src="https://komarev.com/ghpvc/?username=Itzsaim&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 </p>
 
