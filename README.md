@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdul%20Samad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Associate%20Software%20Engineer%20%E2%80%A2%20AI%2FML%20%26%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
+  <img src="./banner.svg" width="100%" alt="Abdul Samad"/>
 </p>
 
 <p align="center">
@@ -173,5 +173,5 @@ A child-welfare management system built as a **team project** — tracking child
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+  <img src="./footer.svg" width="100%"/>
 </p>
