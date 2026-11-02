@@ -1,0 +1,33 @@
+name: Ask my AI assistant
+
+on:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  issues: write
+
+concurrency:
+  group: ask-bot-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  answer:
+    # Only [Ask] issues, never the bot's own comments, never pull requests
+    if: >-
+      startsWith(github.event.issue.title, '[Ask]') &&
+      github.event.issue.pull_request == null &&
+      github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/bot
+      - name: Answer the question
+        run: node .github/bot/answer.js
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

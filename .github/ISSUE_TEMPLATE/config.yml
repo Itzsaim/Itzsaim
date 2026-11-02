@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🌐 Portfolio (live chat)
+    url: https://portfolio-alpha-236c.vercel.app/#chat
+    about: Chat with the assistant instantly on my portfolio.
+  - name: 📧 Email Abdul
+    url: mailto:name.abdul06@gmail.com
+    about: For job offers or anything important.

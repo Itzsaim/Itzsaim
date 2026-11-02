@@ -1,0 +1,16 @@
+name: 💬 Ask my AI assistant
+description: Ask anything about Abdul — projects, skills, experience or availability. An AI replies in about a minute.
+title: "[Ask] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 Hi! Ask a question below and my AI assistant will reply in this issue within about a minute.
+        You can keep the conversation going by commenting. For anything important, email **name.abdul06@gmail.com**.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      placeholder: e.g. What has Abdul built with RAG? Is he open to work?
+    validations:
+      required: true

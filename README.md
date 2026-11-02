@@ -17,7 +17,8 @@
   <a href="mailto:name.abdul06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
-  <a href="https://portfolio-alpha-236c.vercel.app/#chat"><img src="https://img.shields.io/badge/💬_Ask_my_AI_assistant_about_me-38BDF8?style=for-the-badge&labelColor=0b1120"/></a>
+  <a href="https://portfolio-alpha-236c.vercel.app/#chat"><img src="https://img.shields.io/badge/💬_Chat_with_my_AI_(live)-38BDF8?style=for-the-badge&labelColor=0b1120"/></a>
+  <a href="https://github.com/Itzsaim/Itzsaim/issues/new?template=ask.yml"><img src="https://img.shields.io/badge/🤖_Ask_my_AI_on_GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1120"/></a>
   <img src="https://komarev.com/ghpvc/?username=Itzsaim&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 </p>
 
@@ -117,6 +118,33 @@ A child-welfare management system built as a **team project** — tracking child
   <br/><br/>
   <a href="https://portfolio-alpha-236c.vercel.app"><img src="https://img.shields.io/badge/📖_Read_the_full_case_studies-7C3AED?style=for-the-badge"/></a>
 </p>
+
+---
+
+## 🤖 Ask My AI Assistant
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 On GitHub
+Open an issue and my AI assistant replies **right here on GitHub** in about a minute. Comment to ask follow-ups.
+
+<a href="https://github.com/Itzsaim/Itzsaim/issues/new?template=ask.yml"><img src="https://img.shields.io/badge/Ask_a_question-A78BFA?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Live chat
+Prefer instant answers? Chat with the same assistant on my portfolio.
+
+<a href="https://portfolio-alpha-236c.vercel.app/#chat"><img src="https://img.shields.io/badge/Open_live_chat-38BDF8?style=for-the-badge&logo=vercel&logoColor=020617"/></a>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Try: <i>“What has Abdul built with RAG?”</i> · <i>“Is he open to work?”</i> · <i>“What’s his tech stack?”</i></sub></p>
 
 ---
 
