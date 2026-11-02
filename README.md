@@ -17,7 +17,7 @@
   <a href="mailto:name.abdul06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
-  <a href="https://portfolio-alpha-236c.vercel.app/#chat"><img src="https://img.shields.io/badge/💬_Chat_with_my_AI_(live)-38BDF8?style=for-the-badge&labelColor=0b1120"/></a>
+  <a href="https://portfolio-abdul06.vercel.app/#chat"><img src="https://img.shields.io/badge/💬_Chat_with_my_AI_(live)-38BDF8?style=for-the-badge&labelColor=0b1120"/></a>
   <a href="https://github.com/Itzsaim/Itzsaim/issues/new?template=ask.yml"><img src="https://img.shields.io/badge/🤖_Ask_my_AI_on_GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1120"/></a>
   <img src="https://komarev.com/ghpvc/?username=Itzsaim&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
 </p>
@@ -116,7 +116,7 @@ A child-welfare management system built as a **team project** — tracking child
 <p align="center">
   <b>More:</b> <a href="https://github.com/Itzsaim/sms-spam-detection">📩 SMS Spam Classifier</a> (96%+ precision) · <a href="https://github.com/Itzsaim/movie-recommended-system">🎬 Movie Recommender</a> (TMDB + cosine similarity)
   <br/><br/>
-  <a href="https://portfolio-alpha-236c.vercel.app"><img src="https://img.shields.io/badge/📖_Read_the_full_case_studies-7C3AED?style=for-the-badge"/></a>
+  <a href="https://portfolio-abdul06.vercel.app"><img src="https://img.shields.io/badge/📖_Read_the_full_case_studies-7C3AED?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -138,7 +138,7 @@ Open an issue and my AI assistant replies **right here on GitHub** in about a mi
 ### ⚡ Live chat
 Prefer instant answers? Chat with the same assistant on my portfolio.
 
-<a href="https://portfolio-alpha-236c.vercel.app/#chat"><img src="https://img.shields.io/badge/Open_live_chat-38BDF8?style=for-the-badge&logo=vercel&logoColor=020617"/></a>
+<a href="https://portfolio-abdul06.app/#chat"><img src="https://img.shields.io/badge/Open_live_chat-38BDF8?style=for-the-badge&logo=vercel&logoColor=020617"/></a>
 
 </td>
 </tr>
