@@ -12,8 +12,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-samad-80b875279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://gitlab.com/Itzsaim"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-  <a href="https://portfolio-alpha-236c.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://portfolio-alpha-236c.vercel.app/Abdul_Samad_Resume.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+  <a href="https://portfolio-abdul06.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://portfolio-abdul06.vercel.app/Abdul_Samad_Resume.pdf"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
   <a href="mailto:name.abdul06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
